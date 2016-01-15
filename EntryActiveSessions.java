@@ -1,4 +1,3 @@
-package antiDoS.sentinel;
 
 public class EntryActiveSession {
 
